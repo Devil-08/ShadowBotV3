@@ -3,7 +3,7 @@ global.linkGC = ['https://wa.com'] // No tiene utilidad
 global.channelYT = ['https://www.youtube.com'] // No tiene utilidad
 global.owner = ['918010431346'] //Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['91801043146'] //No tiene utilidad
-global.prems = ['918010431346' , '8010431346', '918055005094'] //Podra usar algunos comandos del apartado de propietario
+global.prems = ['918010431346' , '918010431346', '918055005094'] //Podra usar algunos comandos del apartado de propietario
 
 //Lo siguiente no tiene nada que ver con el funcionamiento del Bot:
 //Nota: Puedes contactarme si necesitas ayuda con algo al +5219996125657 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
